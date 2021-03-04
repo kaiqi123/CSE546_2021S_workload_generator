@@ -1,6 +1,6 @@
 # CSE546_2021S_workload_generator
 
-This repository contains code examples for you to use our workload generator
+This repository contains code examples for you to use our workload generator.
 We setup both php and node.js server backends
 
 The following command sends three requests to a php backend.
